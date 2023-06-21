@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'pages/pinScreen.dart';
+
 void main() {
   runApp(const MyApp());
 }
